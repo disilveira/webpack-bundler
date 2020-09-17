@@ -2,7 +2,8 @@
   "name": "webpack-bundle",
   "version": "1.0.0",
   "scripts": {
-    "start": "node_modules/.bin/webpack-dev-server"
+    "start": "node_modules/.bin/webpack-dev-server",
+    "build": "node_modules/.bin/webpack"
   },
   "author": "Diego Almeida <diego.almeida@outlook.com>",
   "license": "ISC",
